@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://bc6naici523a1"]
+
+[ext_resource type="PackedScene" uid="uid://ctjo2oo8wm3wa" path="res://scenes/levels/level1.tscn" id="3_hrtbl"]
+
+[node name="Mainn" type="Node2D" unique_id=1084295735]
+
+[node name="LevelRoot" parent="." unique_id=338196455 instance=ExtResource("3_hrtbl")]
+position = Vector2(8, -3)
