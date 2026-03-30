@@ -2,7 +2,7 @@
 
 Creep and Collect was made as an entry to Hack Club -> Athena -> Sleepover -> SnoozeFest game jam. This game was made using godot and published on itch.io. Play it [here](https://hack-girl.itch.io/creep-and-collect): https://hack-girl.itch.io/creep-and-collect
 
-![Game Screenshot](images\GoGame.png)
+![Game Screenshot](images/GoGame.png)
 
 
 ## Aim of the game
